@@ -1,7 +1,7 @@
 # HTML Resume Template
 
 A simple, clean, and responsive **HTML resume template** built using pure **HTML**.  
-This project is designed to be lightweight, easy to customize, and suitable for quick deployment using **GitHub Pages**.
+This project is designed For my Chaicode Webdev Cohort task and it's live on **GitHub Pages**.
 
 ---
 
@@ -37,6 +37,7 @@ Follow these steps to run the project locally:
 Navigate into the project folder:
 
 cd HTML-Resume
+
 Open index.html in your browser
 
 
@@ -48,13 +49,13 @@ Screenshots:
 
 
 
-👤 Author
+ Author
 Vikas Varshney
 GitHub: https://github.com/vikasvarshney01
 
 
 
 
--
+
 
 
